@@ -1,0 +1,14 @@
+#########
+# Armor #
+#########
+
+*ChainmailShirt
+type=Armor
+img=115,2,119
+name=Chainmail shirt
+flags=IF_EQUIPABLE
+locations=L_ABDOMEN,L_ARMS,L_CHEST
+ap=5
+enc=4
+tsp=20
+blit_pos=8,0

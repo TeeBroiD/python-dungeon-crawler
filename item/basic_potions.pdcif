@@ -1,0 +1,11 @@
+###########
+# Potions #
+###########
+
+*RandomPotion
+type=Stuff
+name=Potion
+img=0,0,268:0,0,269:0,0,270:0,0,271:0,0,272:0,0,273:0,0,274:0,0,275:0,0,276:0,0,277:0,0,278:0,0,279:0,0,280:0,0,281
+flags=IF_DRINKABLE
+info=A strange liquid:A tasty liquid:A foul liquid:A funny liquor:A smelly liquor:A colorfull liquor
+suf=PotionOfEndurance:PotionOfMind:PotionOfSpellcaster:PotionOfHealing:PotionOfKillbeePoison:PotionOfYumuraPoison:PotionOfRegeneration

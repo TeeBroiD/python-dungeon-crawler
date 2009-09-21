@@ -1,0 +1,34 @@
+*PurpleJelly
+image=144
+speed=500:600:700
+ai=SmarterAI
+morale=20
+name=Purple Jelly
+dv_fx=SplitEffect,40
+hp=15,35
+natural_dv=20
+natural_av=30 
+damage=2,4:3,6
+
+*BlueJelly
+image=145
+speed=500:600:700
+ai=SmarterAI
+morale=20
+name=Blue Jelly
+dv_fx=FrostEffect,20
+hp=15,35
+natural_dv=20
+natural_av=30
+damage=2,4:3,6
+
+*BrownPudding
+image=146
+speed=500:600:700
+ai=SmarterAI
+morale=20
+name=Brown Pudding 
+hp=15,35
+damage=2,4:3,6
+natural_dv=55
+natural_av=30

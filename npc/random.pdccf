@@ -1,0 +1,17 @@
+*Xankur
+image=40
+speed=80
+ai=ChasePlayerAI
+name=Xankur Demon
+natural_av=240
+natural_dv=240
+
+*Yumura
+image=230
+speed=130
+ai=ChasePlayerAI
+name=Yumura
+natural_av=40
+natural_dv=40
+
+

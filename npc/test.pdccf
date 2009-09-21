@@ -1,0 +1,12 @@
+*Goblin
+image=288:293
+speed=100:120:130
+ai=SmarterAI
+morale=60
+name=Goblin
+natural_av=-20:-10:0:10
+natural_dv=-10:0
+weapon=Flail,basic_weapons,4:Axe,basic_weapons,4
+items=Darts,basic_weapons,0
+endurance=50
+gold=1,5

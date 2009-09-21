@@ -1,0 +1,54 @@
+*AshGolem
+image=0
+speed=200:300:400
+ai=SmarterAI
+morale=100
+name=Ash Golem
+dv_fx=DazzleEffect,25
+hp=15,35
+corpse=-1
+damage=1,5:1,7:1,9:1,12
+natural_dv=40
+natural_av=30
+xp_value=45
+
+*ClayGolem
+image=1
+speed=400:500
+ai=SmarterAI
+morale=100
+name=Clay Golem
+av_fx=StunEffect,25
+hp=15,35 
+corpse=-1
+damage=4,5:3,4:1,9:3,6
+natural_dv=80
+natural_av=50
+xp_value=45
+
+*FireGolem
+image=2
+speed=100:150
+ai=SmarterAI
+morale=100
+name=Fire Golem
+hp=15,25
+dv_fx=HeatEffect,25
+corpse=-1
+damage=1,2:1,3:2,4:3,6
+natural_dv=50
+natural_av=60
+xp_value=45
+
+*StrawGolem
+image=4
+speed=150:200:250:300
+ai=SmarterAI
+morale=100
+name=Straw Golem
+hp=8,20
+dv_fx=StrokingEffect,25
+corpse=-1
+damage=1,2:1,3:2,4:1,4
+natural_dv=10
+natural_av=10

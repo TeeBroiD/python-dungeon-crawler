@@ -1,0 +1,9 @@
+#########
+# Stuff #
+#########
+
+*Gold
+type=Gold
+name=Gold
+img=0,0,344
+amount=1,80

@@ -1,0 +1,8 @@
+*TomeOfVileUmbrages
+type=Stuff
+name=Tome Of Vile Umbrages
+img=0,0,282
+flags=IF_READABLE
+info=An ancient tome 
+suf=BookOfTOVU
+iden=1
